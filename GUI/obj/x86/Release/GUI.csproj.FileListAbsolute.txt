@@ -1,0 +1,31 @@
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.Dashboard.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.frmAddUser.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.frmChangePassword.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.frmLogin.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.frmMain.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.frmSinhVien.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.frmUser.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.GiangVien.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.Khoa.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.Lop.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.Properties.Resources.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.UserControl1.resources
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\GUI\obj\x86\Release\GUI.csproj.GenerateResource.Cache
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.Dashboard.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmAddUser.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmChangePassword.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmEditSinhVien.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmEditUser.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmLogin.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmMain.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmAddSinhVien.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.frmUser.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.GiangVienGUI.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.Khoa.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.Lop.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.Properties.Resources.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.UC_NguoiDung.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.UC_SinhVien.resources
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\GUI\obj\x86\Release\GUI.csproj.GenerateResource.Cache

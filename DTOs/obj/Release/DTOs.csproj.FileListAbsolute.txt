@@ -1,0 +1,8 @@
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\bin\Release\DTOs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\bin\Release\DTOs.pdb
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\obj\Release\DTOs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\obj\Release\DTOs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\bin\Release\DTOs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\bin\Release\DTOs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Release\DTOs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Release\DTOs.pdb

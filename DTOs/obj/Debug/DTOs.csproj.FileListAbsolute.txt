@@ -1,0 +1,52 @@
+C:\Users\yusmi\Desktop\QuanLyDiemSV\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QuanLyDiemSV\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QuanLyDiemSV\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QuanLyDiemSV\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\555\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\555\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\555\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\555\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\555\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
+C:\Users\yusmi\Desktop\666\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\666\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\666\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\666\DTOs\obj\Debug\DTOs.pdb
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver2\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver2\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver2\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver2\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QLSVTĐ_ver2\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QLSVTĐ_ver2\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QLSVTĐ_ver2\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QLSVTĐ_ver2\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver3\QLSVTĐ_ver2\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver3\QLSVTĐ_ver2\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver3\QLSVTĐ_ver2\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\Đức\QLSVTĐ_ver3\QLSVTĐ_ver2\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver3\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver3\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver3\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver4\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver4\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver4\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\QLSVTĐ_ver3\QLSVTĐ_ver4\QLSVTĐ_ver4\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\DŨng\C#\Dũng\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\DŨng\C#\Dũng\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\DŨng\C#\Dũng\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+C:\Users\yusmi\Desktop\DŨng\C#\Dũng\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb
+C:\Users\yusmi\Desktop\DŨng\C#\Dũng\QLSVTĐ\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
+E:\C#\C#\Project\QLSVTĐ\DTOs\bin\Debug\DTOs.dll
+E:\C#\C#\Project\QLSVTĐ\DTOs\bin\Debug\DTOs.pdb
+E:\C#\C#\Project\QLSVTĐ\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache
+E:\C#\C#\Project\QLSVTĐ\DTOs\obj\Debug\DTOs.dll
+E:\C#\C#\Project\QLSVTĐ\DTOs\obj\Debug\DTOs.pdb

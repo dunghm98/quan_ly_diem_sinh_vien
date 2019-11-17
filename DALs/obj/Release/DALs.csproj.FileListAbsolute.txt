@@ -1,0 +1,14 @@
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\bin\Release\DALs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\bin\Release\DALs.pdb
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\bin\Release\DTOs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\bin\Release\DTOs.pdb
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\obj\Release\DALs.csprojResolveAssemblyReference.cache
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\obj\Release\DALs.dll
+C:\Users\ducop\Downloads\Tài Liệu Win\QLSVTĐ\DALs\obj\Release\DALs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\bin\Release\DALs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\bin\Release\DALs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\bin\Release\DTOs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\bin\Release\DTOs.pdb
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\obj\Release\DALs.csprojResolveAssemblyReference.cache
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\obj\Release\DALs.dll
+C:\Users\ducop\Desktop\QLSVTĐ_ver3\QLSVTĐ\DALs\obj\Release\DALs.pdb
